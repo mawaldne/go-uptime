@@ -1,0 +1,8 @@
+# uptime configuration
+urls = ["http://www.google.com", "http://www.google.ca"]
+waitseconds = 5
+
+# Slack incoming webhook integration. Very simple...
+[slack]
+url = ""
+username = ""

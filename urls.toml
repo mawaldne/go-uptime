@@ -1,2 +1,0 @@
-waitseconds = 5
-urls = ["http://www.google.com", "http://www.msn.com"]
