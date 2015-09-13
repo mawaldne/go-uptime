@@ -1,10 +1,8 @@
 # go-uptime
 Uptime monitor
 
-Uptime utility to ping a configured set of urls. My first attempt at learning go. Nothing fancy.
+Uptime utility to ping a configured set of urls. Please note this is my first attempt at learning go.
 
-
-TODO: 
-Email notifer 
-Slack notifer  
+TODO:  
+Email notifer  
 Test out go channels 
